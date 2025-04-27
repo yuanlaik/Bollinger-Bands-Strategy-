@@ -15,7 +15,7 @@ load_dotenv()
 #%%
 ts = TimeSeries(key=os.getenv("ALPHA_API")  , output_format='pandas')
 #%%
-# 获取AAPL过去日线数据（网页4扩展）
+# 获取AAPL过去日线数据
 data, meta = ts.get_daily(
     symbol='AAPL', 
     outputsize='full' 
