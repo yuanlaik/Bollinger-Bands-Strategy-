@@ -1,5 +1,5 @@
 #%% md
-# # 布林带分析AAPL
+# # 分析AAPL
 # ## 数据获取和清洗
 #%%
 from alpha_vantage.timeseries import TimeSeries
