@@ -1,4 +1,4 @@
-# Quantitative Trading Strategy: Bollinger Bands + RSI + MACD Multi-Indicator Combination
+# Quantitative Trading Strategy:  Multi-Indicator Combination
 
 ![Strategy Overview]
 ![image](https://github.com/user-attachments/assets/f23565ea-623e-4949-9720-57ed01471dff)
